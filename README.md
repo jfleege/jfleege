@@ -16,6 +16,6 @@
 
 ### a few of my favorite projects
 
-- **[Wrangled](https://github.com/jfleege/wrangled)** — R Shiny app for uploading, previewing, cleaning, and visualizing structured datasets.
-- **[Baseball Analytics App](https://github.com/jfleege/baseball-analytics-app)** — Interactive dashboard for exploring team statistics.
-- **[Netflix Recommender](https://github.com/jfleege/netflix-recommender)** — A recommendation project that uses viewing/content data to suggest similar movies or shows based on user preferences.
+- **[wrangled](https://github.com/jfleege/wrangled)** — R Shiny app for uploading, previewing, cleaning, and visualizing structured datasets.
+- **[shiny-baseball](https://github.com/jfleege/baseball-analytics-app)** — Interactive dashboard for exploring team statistics.
+- **[netflix-nlp-recommender](https://github.com/jfleege/netflix-recommender)** — A recommendation project that uses viewing/content data to suggest similar movies or shows based on user preferences.
