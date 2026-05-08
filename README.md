@@ -1,4 +1,6 @@
 ## Hi there 👋
+[![Jackson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jfleege&show_icons=true&theme=default)](https://github.com/jfleege/github-readme-stats)
+
 
 <!--
 **jfleege/jfleege** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
