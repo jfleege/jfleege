@@ -1,5 +1,4 @@
-## Hi there 👋
-[![Jackson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jfleege&show_icons=true&theme=default)](https://github.com/jfleege/github-readme-stats)
+## work in progress
 
 
 <!--
