@@ -3,7 +3,7 @@
 ![R Markdown](https://img.shields.io/badge/R%20Markdown-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Illinois_Block_I.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" style="width:1.99%">
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jfleege&theme=github_dark" width="90%"/>
