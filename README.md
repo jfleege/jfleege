@@ -5,7 +5,7 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Illinois_Block_I.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" style="width:1.99%">
 
 <p align="center">
@@ -19,6 +19,7 @@
 
 ### a few of my favorite projects
 
+- **[the-philanthropic-playlist](https://github.com/jfleege/the-philanthropic-playlist)** — A website I made for an RSO I'm a board member of on campus, which can be visited [here](https://thephilanthropicplaylist.org/).
 - **[wrangled](https://github.com/jfleege/wrangled)** — R Shiny app for uploading, previewing, cleaning, and visualizing structured datasets.
 - **[shiny-baseball](https://github.com/jfleege/baseball-analytics-app)** — Interactive dashboard for exploring team statistics.
 - **[netflix-nlp-recommender](https://github.com/jfleege/netflix-recommender)** — A recommendation project that uses viewing/content data to suggest similar movies or shows based on user preferences.
