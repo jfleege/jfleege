@@ -17,9 +17,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jfleege&theme=github_dark" width="45%" />
 </p>
 
-### a few of my favorite projects
+### A Few of My Favorite Projects
 
-- **[the-philanthropic-playlist](https://github.com/jfleege/the-philanthropic-playlist)** — A website I made for an RSO I'm a board member of on campus, which can be visited [here](https://thephilanthropicplaylist.org/).
+- **[the-philanthropic-playlist](https://github.com/jfleege/the-philanthropic-playlist)** — A website I made for an RSO I'm the Treasurer of which can be visited [here](https://thephilanthropicplaylist.org/).
 - **[wrangled](https://github.com/jfleege/wrangled)** — R Shiny app for uploading, previewing, cleaning, and visualizing structured datasets.
 - **[shiny-baseball](https://github.com/jfleege/baseball-analytics-app)** — Interactive dashboard for exploring team statistics.
 - **[netflix-nlp-recommender](https://github.com/jfleege/netflix-recommender)** — A recommendation project that uses viewing/content data to suggest similar movies or shows based on user preferences.
