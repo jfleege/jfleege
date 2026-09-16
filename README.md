@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Illinois_Block_I.png" width="24">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Illinois_Block_I.png" width="19">
 </p>
 
 <p align="center">
